@@ -2,7 +2,7 @@
 
 ## Reporting a Vulnerability
 
-Mondoo values responsible disclosure to protect the security and privacy of all our users.  We actively encourage respectful and non-disruptive testing and reporting of detected vulnerabilities, within the following guidelines:
+Mondoo values responsible disclosure to protect the security and privacy of all our users. We actively encourage respectful and non-disruptive testing and reporting of detected vulnerabilities, within the following guidelines:
 
  - DO submit reports as soon as you are aware of an issue
  - DO allow time to assess and respond to the submission 
