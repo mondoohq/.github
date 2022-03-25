@@ -116,7 +116,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 | Name      | Role | Email | Slack | GitHub | Twitter |
 | :----------- | :----------- | :----------- | :----------- | :----------- | :----------- |
-| Scott Ford      | DevRel / Community | scottford@mondoo.com | @scottford | [@scottford_io](https://github.com/scottford_io) | [@scottford_io](https://twitter.com/scottford_io) |
+| Scott Ford      | DevRel / Community | scottford@mondoo.com | @scottford | [@scottford-io](https://github.com/scottford-io) | [@scottford_io](https://twitter.com/scottford_io) |
 | Tim Smith      | DevRel / Community | tim@mondoo.com | @tas50 | [@tas50](https://github.com/tas50) | [@tas50](https://twitter.com/tas50) |
 | Jamie Bright | Marketing Director | jamieb@mondoo.com | @jamiebright |  |  |
 | Ben Rockwood | VP Engineering / Operation | ben@mondoo.com |  @benr | [@benr](https://github.com/benr) | [@benr](https://twitter.com/benr) |
