@@ -6,7 +6,7 @@ Diversity of ideas challenges us to think differently and venture into new terri
 
 While we all come from diverse backgrounds, experiences, and cultural upbringings, we recognize that challenges, misunderstandings, and disagreements will arise. Disagreeing with others about technology and process can be great, as those disagreements can lead to new ideas and greater outcomes that benefit us all. At the same time, disagreements that are personal, aggressive, or make others feel attacked, are never good and have no place in the Mondoo Community.
 
-The Mondoo Community Guidelines are maintained to ensure disagreements stay civil and do not cross into unacceptable behavior such as personal attacks or aggression against others. 
+The Mondoo Community Guidelines are maintained to ensure disagreements stay civil and do not cross into unacceptable behavior such as personal attacks or aggression against others.
 
 Anyone is welcome to join the Mondoo Community, but in doing so you are agreeing to behave within these guidelines.
 
@@ -25,7 +25,7 @@ By joining the Mondoo Community you are expected to behave as follows:
 
 ### Scope
 
-The Mondoo Code of Conduct is expected to be followed by all employees, delegates, participants, speakers, exhibitors, organizers, and volunteers in any setting that Mondoo conducts business in. 
+The Mondoo Code of Conduct is expected to be followed by all employees, delegates, participants, speakers, exhibitors, organizers, and volunteers in any setting that Mondoo conducts business in.
 
 This includes but is not limited to Mondoo Community Slack, Webinars, GitHub, YouTube or Twitch live stream, commenting on any Mondoo generated content, or threads related to Mondoo such as Reddit or Stack Overflow.
 
@@ -100,7 +100,7 @@ Any physical violence or intimidation, threatened or acted on, is a serious offe
 
 There are two defined roles within the Mondoo Community:
 
-- **Community Ambassadors** - Community Ambassadors are designated Mondoo employees that actively participate within the Mondoo Community to welcome all participants on behalf of Mondoo, and who work to ensure community guidelines and the code of conduct are followed by all. 
+- **Community Ambassadors** - Community Ambassadors are designated Mondoo employees that actively participate within the Mondoo Community to welcome all participants on behalf of Mondoo, and who work to ensure community guidelines and the code of conduct are followed by all.
 
 - **Community Members** - A Community Member is anyone who participates with the community whether in-person or via online channels, which also includes Community Ambassadors and Mondoo Employees. Community members are responsible for following the community guidelines, suggesting updates to the guidelines when warranted, and helping enforce community guidelines.
 
@@ -116,12 +116,11 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 | Name      | Role | Email | Slack | GitHub | Twitter |
 | :----------- | :----------- | :----------- | :----------- | :----------- | :----------- |
-| Scott Ford      | DevRel / Community | scottford@mondoo.com | @scottford | @scottford_io | @scottford_io |
-| Tim Smith      | DevRel / Community | tim@mondoo.com | @tas50 | @tas50 | @tas50 |
+| Scott Ford      | DevRel / Community | scottford@mondoo.com | @scottford | [@scottford_io](https://github.com/scottford_io) | [@scottford_io](https://twitter.com/scottford_io) |
+| Tim Smith      | DevRel / Community | tim@mondoo.com | @tas50 | [@tas50](https://github.com/tas50) | [@tas50](https://twitter.com/tas50) |
 | Jamie Bright | Marketing Director | jamieb@mondoo.com | @jamiebright |  |  |
-| Ben Rockwood | VP Engineering / Operation | ben@mondoo.com |  @benr | @benr | @benr |
+| Ben Rockwood | VP Engineering / Operation | ben@mondoo.com |  @benr | [@benr](https://github.com/benr) | [@benr](https://twitter.com/benr) |
 | Alex Miller | Digital Marketing Specialist | alex@mondoo.com |  @alexmiller |  |  |
-
 
 ## Influences
 
