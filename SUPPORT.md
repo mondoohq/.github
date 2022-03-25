@@ -1,0 +1,1 @@
+See our [Mondoo Support](https://mondoo.com/support/) page for more information on Mondoo support.
