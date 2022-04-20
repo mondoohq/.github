@@ -2,8 +2,6 @@ Hi, fellow open source lovers 👋
 
 We’re extremely excited that you landed on our GitHub page!
 
-At Mondoo, we’re staunch proponents of open source and all the progress that has been made in our industry because of it. A hearty thank you is in order to the community, project maintainers, and contributors. Your efforts have made people’s lives easier ❤️
-
 What does Mondoo help you do? 😀
 
 🏗 Build security into the development process from the start
