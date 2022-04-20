@@ -4,16 +4,16 @@ We’re extremely excited that you landed on our GitHub page!
 
 At Mondoo, we’re staunch proponents of open source and all the progress that has been made in our industry because of it. A hearty thank you is in order to the community, project maintainers, and contributors. Your efforts have made people’s lives easier ❤️
 
-What does Mondoo help you do 😀
+What does Mondoo help you do? 😀
 
 🏗 Build security into the development process from the start
 🤝 Enlist the DevOps team to help secure your company
 ⏳ Save time and friction during audit cycles
 🧰 Avoid tool sprawl
 
-Wait, who is Mondoo 🤔
+Wait, who is Mondoo? 🤔
 
-Mondoo was founded in 2020 by DevOps and security experts who previously founded InSpec, devsec.io, and OpenStack. 
+Mondoo was founded in 2020 by DevOps and security experts who previously founded InSpec, devsec.io, and OpenStack.
 
 What we believe in:
 
