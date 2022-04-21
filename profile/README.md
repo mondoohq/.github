@@ -1,6 +1,8 @@
 # Hi, fellow open source lovers 👋
 
-![An illustration showing a space kitty dreaming of exploring new worlds with Mondoo](static/github-Mondoo.png)
+![An illustration showing a space kitty dreaming of exploring new worlds with Mondoo](https://raw.githubusercontent.com/mondoohq/.github/master/profile/static/github-Mondoo.png)
+
+
 
 We’re extremely excited that you landed on our GitHub page!
 
