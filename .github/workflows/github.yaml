@@ -3,8 +3,10 @@ on:
   push:
   schedule:
     - cron: "0 * 1 * *"
+  workflow_dispatch:
+
 jobs:
-  install:
+  mondoo-scan:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
