@@ -66,6 +66,13 @@ The DCO text can either be manually added to your commit body, or you can add ei
 
 If you forget to add the sign-off you can also amend a previous commit with the sign-off by running `git commit --amend -s'. If you've pushed your changes to GitHub already you'll need to force push your branch after this with `git push -f`.
 
+### Contributor License Agreement (CLA)
+
+Mondoo's CLA provides an extra layer of protection for both you, as a creator, and Mondoo, as a recipient of your work.  Grab yourself a cup of tea, cozey blanket and read through the [Mondoo Individual Contributor License Agreement (CLA)](CLA.md).
+
+Each Pull Request (PR) will run a check to ensure you've signed the CLA.  If you have not, a comment will be inserted into the PR instructing you on how to do so.  
+
+A corperate CLA is available upon request, contact hello@mondoo.com for more information.
 ### Contribution Process
 
 With licensing understood, let's continue on to your contribution!
