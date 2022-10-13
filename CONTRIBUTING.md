@@ -8,7 +8,7 @@ If you believe you've discovered a security issue within one of the Mondoo proje
 
 ## Reporting Issues
 
-If you find something that's not working as expected, please let us know by submitting a GitHub issue in our project repositories. Each repository includes project specific issue templates to gather everything our team needs to triage your issue. Please take the time to fill out all the fields so we can reproduce your issue and get back to you quickly. If you're not sure that your problem is necessarily a bug or you have questions feel free to reach out to us on [Mondoo Community Slack](https://mondoo.link/slack).
+If you find something that's not working as expected, please let us know by submitting a GitHub issue in our project repositories. Each repository includes project specific issue templates to gather everything our team needs to triage your issue. Please take the time to fill out all the fields so we can reproduce your issue and get back to you quickly. If you're not sure that your problem is necessarily a bug or you have questions feel free to reach out to us on [GitHub Discussions](https://github.com/orgs/mondoohq/discussions).
 
 ## Making Contributions
 

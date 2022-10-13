@@ -1,1 +1,1 @@
-See our [Mondoo Support](https://mondoo.com/support/) page for more information on Mondoo support.
+See our [Mondoo Support](https://mondoo.com/support/) page for more information on Mondoo support, or visit our [GitHub Discussions](https://github.com/orgs/mondoohq/discussions) page.
