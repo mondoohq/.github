@@ -2,9 +2,12 @@
 
 ![An illustration showing a space kitty dreaming of exploring new worlds with Mondoo](https://raw.githubusercontent.com/mondoohq/.github/master/profile/static/mondoo-github-banner.png)
 
-
-
 **We’re extremely excited that you landed on our GitHub page!**
+
+### Check out our new Open Source projects
+
+🐈 [cnquery](https://github.com/mondoohq/cnquery) is a cloud-native tool for querying your entire fleet.
+🐈‍⬛ [cnspec](https://github.com/mondoohq/cnspec) is a cloud-native solution to assess the security and compliance of your business-critical infrastructure.
 
 ### What does Mondoo help you do? 😀
 
