@@ -20,13 +20,14 @@ Steps to reproduce the behavior:
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Screenshots or CLI Output**
+If applicable, add screenshots or the CLI ouput to help explain your problem.
 
 **Desktop (please complete the following information):**
- - OS: [e.g. Linux]
- - Browser if applicable [e.g. Chrome, Safari]
- - Version [e.g. 22]
+- OS: [e.g. macOS]
+- OS Version: [e.g. 13.0]
+- Browser if applicable [e.g. Chrome, Firefox]
+- Browser Version: [e.g. 106]
 
 **Additional context**
 Add any other context about the problem here.
