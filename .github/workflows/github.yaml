@@ -1,7 +1,7 @@
 name: Mondoo GitHub Organization scan
 on:
   schedule:
-    - cron: "0 * 1 * *"
+    - cron: "0 0 * * 1"
   workflow_dispatch:
 
 jobs:
@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: mondoohq/actions/github-org@main
+      - uses: mondoohq/actions/github-org@0.7.1
         with:
           service-account-credentials: ${{ secrets.MONDOO_SERVICE_ACCOUNT }}
           token: ${{ secrets.GITHUB_TOKEN }}
