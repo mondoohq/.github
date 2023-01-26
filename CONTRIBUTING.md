@@ -70,7 +70,7 @@ If you forget to add the sign-off you can also amend a previous commit with the 
 
 Mondoo's CLA provides an extra layer of protection for both you, as a creator, and Mondoo, as a recipient of your work. Grab yourself a cup of tea, cozy blanket and read through the [Mondoo Individual Contributor License Agreement (CLA)](CLA.md).
 
-Each Pull Request (PR) will run a check to ensure you've signed the CLA.  If you have not, a comment will be inserted into the PR instructing you on how to do so.  
+Each Pull Request (PR) will run a check to ensure you've signed the CLA. If you have not, a comment will be inserted into the PR instructing you on how to do so.  
 
 A corperate CLA is available upon request, contact hello@mondoo.com for more information.
 ### Contribution Process
