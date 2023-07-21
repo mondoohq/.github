@@ -4,7 +4,7 @@
 
 **We’re extremely excited that you landed on our GitHub page!**
 
-### Check out our new Open Source projects
+### Check out our open source projects
 
 🐈 [cnquery](https://github.com/mondoohq/cnquery) is a cloud-native tool for querying your entire fleet.
 
@@ -32,16 +32,14 @@ What we believe:
 
 - Security needs to be seen as beneficial, not burdensome
 
-We built Mondoo so that DevOps and Security practitioners can work together to automate their security and compliance for all types of infrastructure with a single, easy-to-use platform featuring: 👉 Policy as Code 👈
+We built Mondoo so that DevOps and Security practitioners can work together to automate their security and compliance for all types of infrastructure with a single, easy-to-use platform featuring: 👉 policy as code 👈
 
 ### Give us a spin 👍
 
-Try Mondoo for free before you make any commitment! No sales pitch or demo required – it’s hands on from the start. Start improving your security posture now, in minutes instead of months.
+Try Mondoo for free before you make any commitment! No sales pitch or demo required –- it’s hands on from the start. Begin improving your security posture now, in minutes instead of months.
 
 ❇️ Get started with Mondoo for free: https://console.mondoo.com/signup
 
 🧑‍💻 Learn how it works: https://mondoo.com/docs/
 
-🧑‍🏫 Learn more about Policy as Code: https://mondoo.com/policy-as-code/
-
-🕵️ Explore the Mondoo platform: https://mondoo.com/platform/
+🧑‍🏫 Learn more about policy as code: https://mondoo.com/policy-as-code/
