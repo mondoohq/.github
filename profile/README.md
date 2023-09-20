@@ -20,6 +20,8 @@
 
 🧰 Avoid tool sprawl
 
+Checkout the [mondoohq/samples](https://github.com/mondoohq/samples) repository to see sample use cases of cnquery and cnspec in action!
+
 ### Wait, who is Mondoo? 🤔
 
 Mondoo was founded in 2020 by DevOps and security experts who previously founded InSpec, devsec.io, and OpenStack.
