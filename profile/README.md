@@ -43,5 +43,3 @@ Try Mondoo for free before you make any commitment! No sales pitch or demo requi
 ❇️ Get started with Mondoo for free: https://mondoo.com/pricing
 
 🧑‍💻 Learn how it works: https://mondoo.com/docs/
-
-🧑‍🏫 Learn more about policy as code: https://mondoo.com/policy-as-code/
