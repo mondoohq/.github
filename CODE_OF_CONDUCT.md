@@ -14,7 +14,7 @@ Anyone is welcome to join the Mondoo Community, but in doing so you are agreeing
 
 Mondoo is dedicated to providing a harassment-free experience for everyone, regardless of gender, sexual orientation, age, disability, physical appearance, body size, race, veteran status, immigration status, or religion. We do not tolerate harassment of community members at events or online in any form.
 
-When communicating with others in the Mondoo Community, take your time, pause before posting and responding (breathe), and choose your words thoughtfully. Always be kind. Any kind of insults, whether they are sexist, racist, exclusionary, or prejudicial will not be tolerated.
+When communicating with others in the Mondoo Community, take your time, pause before posting and responding (breathe), and choose your words thoughtfully. Always be kind. Any kind of insults, whether they are sexist, racist, exclusionary, or prejudicial, will not be tolerated.
 
 By joining the Mondoo Community you are expected to behave as follows:
 
