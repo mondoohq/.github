@@ -14,7 +14,7 @@ Anyone is welcome to join the Mondoo Community, but in doing so you are agreeing
 
 Mondoo is dedicated to providing a harassment-free experience for everyone, regardless of gender, sexual orientation, age, disability, physical appearance, body size, race, veteran status, immigration status, or religion. We do not tolerate harassment of community members at events or online in any form.
 
-When communicating with others in the Mondoo Community, take your time, pause before posting and responding (breathe), and choose your words thoughtfully. Always be kind. Any kind of insults, whether they are sexist, racist, exclusionary, or prejudicial will not be tolerated. 
+When communicating with others in the Mondoo Community, take your time, pause before posting and responding (breathe), and choose your words thoughtfully. Always be kind. Any kind of insults, whether they are sexist, racist, exclusionary, or prejudicial will not be tolerated.
 
 By joining the Mondoo Community you are expected to behave as follows:
 
@@ -118,9 +118,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 | :----------- | :----------- | :----------- | :----------- | :----------- | :----------- |
 | Scott Ford      | DevRel / Community | scottford@mondoo.com | @scottford | [@scottford-io](https://github.com/scottford-io) | [@scottford_io](https://twitter.com/scottford_io) |
 | Tim Smith      | DevRel / Community | tim@mondoo.com | @tas50 | [@tas50](https://github.com/tas50) | [@tas50](https://twitter.com/tas50) |
-| Jamie Bright | Marketing Director | jamieb@mondoo.com | @jamiebright |  |  |
 | Ben Rockwood | VP Engineering / Operation | ben@mondoo.com |  @benr | [@benr](https://github.com/benr) | [@benr](https://twitter.com/benr) |
-| Alex Miller | Digital Marketing Specialist | alex@mondoo.com |  @alexmiller |  |  |
 
 ## Influences
 
