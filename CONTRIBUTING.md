@@ -20,10 +20,9 @@ Before jumping in to make your change, please read about our Developer Certifica
 
 Software licenses are an essential component of every open source project. Licenses outline the legal rights afforded to users of projects and the rights provided to project maintainers when a copyright holder contributes new code.
 
-The DCO is an attestation attached to every contribution made by every developer, ensuring the contributor has the right to contribute under the project's license. 
+The DCO is an attestation attached to every contribution made by every developer, ensuring the contributor has the right to contribute under the project's license.
 
 In the commit message of the contribution, the developer adds a Signed-off-by statement and thereby agrees to the DCO as shown below.
-
 
 ```
 Developer's Certificate of Origin 1.1
@@ -62,7 +61,7 @@ The DCO requires a sign-off message in the following format appears on each comm
 Signed-off-by: Ziggy Stardust <ziggy@mondoo.com>
 ```
 
-The DCO text can either be manually added to your commit body, or you can add either `-s' or `--signoff` to your usual git commit commands. If you are using the GitHub UI to make a change you can add the sign-off message directly to the commit message when creating the pull request. 
+The DCO text can either be manually added to your commit body, or you can add either `-s' or `--signoff` to your usual git commit commands. If you are using the GitHub UI to make a change you can add the sign-off message directly to the commit message when creating the pull request.
 
 If you forget to add the sign-off you can also amend a previous commit with the sign-off by running `git commit --amend -s'. If you've pushed your changes to GitHub already you'll need to force push your branch after this with `git push -f`.
 
@@ -70,9 +69,10 @@ If you forget to add the sign-off you can also amend a previous commit with the 
 
 Mondoo's CLA provides an extra layer of protection for both you, as a creator, and Mondoo, as a recipient of your work. Grab yourself a cup of tea, cozy blanket and read through the [Mondoo Individual Contributor License Agreement (CLA)](CLA.md).
 
-Each Pull Request (PR) will run a check to ensure you've signed the CLA. If you have not, a comment will be inserted into the PR instructing you on how to do so.  
+Each Pull Request (PR) will run a check to ensure you've signed the CLA. If you have not, a comment will be inserted into the PR instructing you on how to do so.
 
-A corperate CLA is available upon request, contact hello@mondoo.com for more information.
+A corporate CLA is available upon request, contact hello@mondoo.com for more information.
+
 ### Contribution Process
 
 With licensing understood, let's continue on to your contribution!
