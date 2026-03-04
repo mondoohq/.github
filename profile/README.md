@@ -6,9 +6,9 @@
 
 ### Check out our open source projects 👐
 
-🐈 [cnquery](https://github.com/mondoohq/cnquery) is a cloud-native tool for querying your entire fleet.
+🐈 [mql](https://github.com/mondoohq/mql) is a cloud-native framework for capturing and querying your entire infrastructure.
 
-🐈‍⬛ [cnspec](https://github.com/mondoohq/cnspec) is a cloud-native solution to assess the security and compliance of your business-critical infrastructure.
+🐈‍⬛ [cnspec](https://github.com/mondoohq/cnspec) is a cloud-native tool to assess the security and compliance of your infrastructure.
 
 ### Don't miss our enterprise platform 👑
 
@@ -30,7 +30,7 @@ The Mondoo unified security platform finds and prioritizes vulnerabilities and m
 
 🎯 Make an immediate and significant impact on your security posture
 
-Check out the [mondoohq/samples](https://github.com/mondoohq/samples) repository to see sample use cases of cnquery and cnspec in action!
+Check out the [mondoohq/samples](https://github.com/mondoohq/samples) repository to see sample use cases of mql and cnspec in action!
 
 ### Wait, who is Mondoo? 🤔
 
