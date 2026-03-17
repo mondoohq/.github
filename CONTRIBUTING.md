@@ -61,9 +61,9 @@ The DCO requires a sign-off message in the following format appears on each comm
 Signed-off-by: Ziggy Stardust <ziggy@mondoo.com>
 ```
 
-The DCO text can either be manually added to your commit body, or you can add either `-s' or `--signoff` to your usual git commit commands. If you are using the GitHub UI to make a change you can add the sign-off message directly to the commit message when creating the pull request.
+The DCO text can either be manually added to your commit body, or you can add either `-s` or `--signoff` to your usual git commit commands. If you are using the GitHub UI to make a change you can add the sign-off message directly to the commit message when creating the pull request.
 
-If you forget to add the sign-off you can also amend a previous commit with the sign-off by running `git commit --amend -s'. If you've pushed your changes to GitHub already you'll need to force push your branch after this with `git push -f`.
+If you forget to add the sign-off you can also amend a previous commit with the sign-off by running `git commit --amend -s`. If you've pushed your changes to GitHub already you'll need to force push your branch after this with `git push -f`.
 
 ### Contributor License Agreement (CLA)
 

@@ -48,7 +48,7 @@ We built Mondoo so that DevOps and Security practitioners can work together to a
 
 ### Give us a spin 👍
 
-Try Mondoo for free before you make any commitment! No sales pitch or demo required –- it’s hands on from the start. Begin improving your security posture now, in minutes instead of months.
+Try Mondoo for free before you make any commitment! No sales pitch or demo required — it’s hands on from the start. Begin improving your security posture now, in minutes instead of months.
 
 ❇️ Get started with Mondoo. Book a demo: https://mondoo.com/contact
 

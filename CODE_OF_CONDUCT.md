@@ -40,12 +40,10 @@ Harassment comes in many forms, including but not limited to:
 - Intrusive or otherwise unwanted photography or recording
 - Sustained disruption of talks or other events
 - Inappropriate physical contact or unwelcome sexual attention
-- Posting (or threatening to post) a person's personally identifying information ("doing")
+- Posting (or threatening to post) a person's personally identifying information ("doxing")
 - Advocating for, or encouraging, any of the above behavior
 
 Participants asked to stop any harassing behavior are expected to comply immediately. Further unacceptable behavior will result in escalating sanctions.
-
-Exhibitors in the expo hall, sponsor or vendor booths or similar activities are also subject to the anti-harassment policy. In particular, exhibitors should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes or otherwise create an unprofessional environment.
 
 Exhibitors in the expo hall, sponsor or vendor booths or similar activities are also subject to the anti-harassment policy. In particular, exhibitors should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes or otherwise create an unprofessional environment.
 
@@ -126,4 +124,4 @@ This Code of Conduct was forked from the example policy from the [Geek Feminism 
 
 ## Copyright
 
-This Code of Conduct is in the public domain. In jurisdictions that do not allow for this, this work is available under [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/). To the extent possible under law, the person who associated CC0 with this work has waived all copyright and related or neighboring rights to this work
+This Code of Conduct is in the public domain. In jurisdictions that do not allow for this, this work is available under [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/). To the extent possible under law, the person who associated CC0 with this work has waived all copyright and related or neighboring rights to this work.
