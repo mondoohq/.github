@@ -15,7 +15,7 @@ jobs:
         with:
           app_id: ${{ secrets.APP_ID }}
           private_key: ${{ secrets.APP_PRIVATE_KEY }}
-      - uses: mondoohq/actions/github-org@20caefcb2d1258d051149913cde321a698b1fdb9 # v13.1.0
+      - uses: mondoohq/actions/github-org@b41754752763419780430abef5e35842ba2bec66 # v13.2.0
         env:
           MONDOO_CONFIG_BASE64: ${{ secrets.MONDOO_SERVICE_ACCOUNT }}
           GITHUB_TOKEN: ${{ steps.generate_token.outputs.token }}
