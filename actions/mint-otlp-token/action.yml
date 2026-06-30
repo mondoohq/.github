@@ -1,0 +1,56 @@
+name: Mint OTLP token
+description: >
+  Mint a GitHub Actions OIDC JWT for otlp.mondoo.love and expose it (along
+  with the standard OTEL_EXPORTER_OTLP_* env vars) to subsequent steps in
+  the same job. Any OTel SDK or otel-cli command after this step will
+  auto-pick-up the endpoint and bearer.
+
+inputs:
+  audience:
+    description: OIDC token audience. Must match the collector's audience_whitelist.
+    required: false
+    default: otlp.mondoo.love
+  endpoint:
+    description: OTLP endpoint URL (no trailing slash).
+    required: false
+    default: https://otlp.mondoo.love
+
+runs:
+  using: composite
+  steps:
+    - shell: bash
+      env:
+        AUDIENCE: ${{ inputs.audience }}
+        ENDPOINT: ${{ inputs.endpoint }}
+      run: |
+        set -euo pipefail
+
+        if [ -z "${ACTIONS_ID_TOKEN_REQUEST_URL:-}" ]; then
+          echo "::error::ACTIONS_ID_TOKEN_REQUEST_URL not set — did you forget 'permissions: id-token: write' on the job?"
+          exit 1
+        fi
+
+        jwt=$(curl --fail-with-body -sS \
+          -H "Authorization: Bearer ${ACTIONS_ID_TOKEN_REQUEST_TOKEN}" \
+          "${ACTIONS_ID_TOKEN_REQUEST_URL}&audience=${AUDIENCE}" \
+          | jq -r '.value')
+
+        # jq -r '.value' on a missing field prints the literal string "null".
+        # Catch that, empty results, and tokens that don't look like a JWT.
+        if [ -z "$jwt" ] || [ "$jwt" = "null" ] || [[ "$jwt" != *.*.* ]]; then
+          echo "::error::OIDC token mint returned empty / null / malformed token"
+          exit 1
+        fi
+
+        # Mask BEFORE writing to $GITHUB_ENV so the value never lands in
+        # the runner's exported-env log line for the next step.
+        echo "::add-mask::$jwt"
+
+        # Set both OTEL_* and the raw OTLP_JWT so callers can use either
+        # OTel SDKs (which auto-discover OTEL_EXPORTER_OTLP_*) or curl /
+        # otel-cli with the bare token.
+        {
+          echo "OTLP_JWT=$jwt"
+          echo "OTEL_EXPORTER_OTLP_ENDPOINT=${ENDPOINT}"
+          echo "OTEL_EXPORTER_OTLP_HEADERS=Authorization=Bearer ${jwt}"
+        } >> "$GITHUB_ENV"
