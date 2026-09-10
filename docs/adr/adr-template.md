@@ -22,6 +22,38 @@ opinions. Link to issues, designs, or incidents.
 What we decided, in the active voice: "We will ...". Be specific enough that
 someone can tell whether an implementation follows this decision or not.
 
+## Security implications
+
+Required. If a decision genuinely does not change our security posture, write
+"None - this decision does not change the threat model" and say why. Do not
+delete the section.
+
+- **Threat model:** What new trust boundaries, attack surface, or entry points
+  does this create? What does an attacker gain if this component is
+  compromised?
+- **Data handling:** What sensitive data (credentials, tokens, keys, customer
+  data) flows through, is stored by, or is logged by this? Where does it live
+  and for how long?
+- **Authentication and authorization:** Who or what can call this, and how is
+  that enforced?
+- **Supply chain:** New dependencies or vendors, their provenance, maintenance
+  status, and what they can reach.
+- **Residual risk:** Risk we are knowingly accepting, and who accepted it.
+
+## Performance implications
+
+Required, on the same terms: "None - no measurable impact expected" plus the
+reason is a valid answer, but the section stays.
+
+- **Expected impact:** Latency, throughput, memory, storage, scan time, cost.
+  Give numbers or a magnitude, not "should be fine".
+- **Evidence:** Benchmark, load test, production measurement, or a stated
+  estimate. Say which it is and link it.
+- **Scale assumptions:** The input sizes, request rates, or asset counts this
+  holds for - and where it stops holding.
+- **Regression budget:** Any SLO, timeout, or budget this consumes or puts at
+  risk.
+
 ## Consequences
 
 ### Positive
@@ -30,8 +62,10 @@ someone can tell whether an implementation follows this decision or not.
 
 ### Negative
 
-- What gets harder, slower, or riskier. Every real decision has a cost;
-  write it down honestly.
+- What gets harder or more expensive as a result - operational burden, added
+  complexity, lock-in, migration pain. Every real decision has a cost; write it
+  down honestly. Security and performance costs belong in their own sections
+  above, not here.
 
 ### Follow-up
 

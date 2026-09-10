@@ -33,6 +33,26 @@ interface, naming, formatting. Those belong in the PR description.
    the discussion happen in review.
 5. When the PR merges, set the status to `Accepted` and update the date.
 
+## Security and performance are not optional
+
+Two sections in the template are mandatory and must not be deleted:
+**Security implications** and **Performance implications**.
+
+We build security tooling. An architectural decision that never states what it
+does to the threat model is not finished, and "we didn't think about it" and
+"there was nothing to think about" look identical once the section is missing.
+The same holds for performance: scan time and resource footprint are product
+qualities for us, not implementation details.
+
+If a decision genuinely has no impact, say so explicitly and give the reason -
+"None - this decision does not change the threat model, it only affects the
+build pipeline". That is a complete answer and takes one line. An empty or
+absent section is not.
+
+Reviewers: treat a missing or hand-waved Security or Performance section the
+way you would treat a missing test. "Should be fine" is not a performance
+analysis, and "we use TLS" is not a threat model.
+
 ## Changing a decision
 
 ADRs are an append-only log, not a wiki. Do not rewrite an accepted ADR when

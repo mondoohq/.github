@@ -24,6 +24,26 @@ repository. Each significant architectural decision gets one numbered Markdown
 file, proposed and discussed in a pull request, and the log is append-only:
 superseded decisions are replaced by new ADRs rather than rewritten.
 
+## Security implications
+
+ADRs are public documents in public repositories, and they describe our
+architecture in detail. That is the whole point, but it sets a rule: an ADR
+never contains secrets, internal hostnames, customer names, or details of an
+unpatched vulnerability. Describe the decision and the threat model; reference
+the embargoed detail by ticket rather than restating it.
+
+- **Threat model:** Unchanged. ADRs add documentation, not attack surface.
+- **Data handling:** No sensitive data. See the rule above.
+- **Residual risk:** Writing down architectural reasoning gives an attacker a
+  clearer map of our systems. We accept this - the same information is already
+  derivable from the open source code, and the benefit to contributors
+  outweighs it.
+
+## Performance implications
+
+None - this decision adds Markdown files to repositories and does not affect
+any runtime path.
+
 ## Consequences
 
 ### Positive
