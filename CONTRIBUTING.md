@@ -16,6 +16,10 @@ Whether you have a great new idea for one of our projects or you just found a ty
 
 Before jumping in to make your change, please read about our Developer Certification of Origin (DCO) requirement and the process for opening your first pull request below.
 
+### Architecture Decisions
+
+If your change involves a significant architectural decision - a new datastore, a public API or wire format change, an authentication model, or anything else that is expensive to reverse - record it as an Architecture Decision Record in the project's `docs/adr/` directory. See our [ADR guide](https://github.com/mondoohq/.github/blob/main/docs/adr/README.md) for the template and process.
+
 ### Developer Certification of Origin (DCO)
 
 Software licenses are an essential component of every open source project. Licenses outline the legal rights afforded to users of projects and the rights provided to project maintainers when a copyright holder contributes new code.
