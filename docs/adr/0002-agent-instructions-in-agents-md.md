@@ -1,6 +1,6 @@
 # 0002. Keep agent instructions in AGENTS.md
 
-- **Status:** Proposed
+- **Status:** Accepted
 - **Date:** 2026-09-13
 - **Deciders:** @chris-rock
 - **Consulted / Informed:** All Mondoo project maintainers
